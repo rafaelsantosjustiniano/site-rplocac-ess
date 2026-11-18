@@ -1,0 +1,16 @@
+FOTOS DOS PRODUTOS
+==================
+Coloque aqui as fotos reais dos produtos (formato .jpg ou .webp, idealmente 800x600 px, proporção 4:3).
+
+Sugestão de nomes:
+  jogo-de-mesa.jpg
+  mesa-avulsa.jpg
+  cadeira.jpg
+  tampao.jpg
+  toalha-de-mesa.jpg
+  toalha-de-tampao.jpg
+
+Depois, abra js/products.js e preencha o campo "image" de cada produto, por exemplo:
+  image: 'img/produtos/jogo-de-mesa.jpg',
+
+Enquanto o campo "image" estiver vazio, o site mostra um placeholder ilustrado automaticamente.
